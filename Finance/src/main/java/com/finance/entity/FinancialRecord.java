@@ -25,5 +25,5 @@ public class FinancialRecord {
 
     private String description;
 
-    private boolean deleted = false; // soft delete
+    private boolean deleted = false; 
 }
